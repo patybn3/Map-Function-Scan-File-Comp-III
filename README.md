@@ -1,8 +1,9 @@
 Author: Patricia Antlitz
+
 Date: 04/01/2023
 
 
-Purpose: use the map function to read a file
+Purpose: use the map function to read a file.
 
 
 Sources of Help: <https://www.tutorialspoint.com/c_standard_library/c_function_atoi.htm https://stackoverflow.com/questions/7648756/is-the-order-of-iterating-through-stdmap-known-and-guaranteed-by-the-standard https://www.educative.io/answers/how-to-sort-a-map-by-value-in-cpp >
